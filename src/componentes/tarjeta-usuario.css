@@ -1,0 +1,24 @@
+.container-usuario{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width:25%;
+    background-color: bisque;
+}
+.foto-container{
+    width: 100%;
+
+}
+
+.foto-usuario{ 
+    
+    
+    background-color: bisque;
+    width: 100px;
+    height: 100px;
+}
+.nombre{
+    margin: auto;
+    width:100%;
+}
